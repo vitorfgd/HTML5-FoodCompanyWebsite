@@ -1,7 +1,5 @@
 # HTML5-FoodCompanyWebsite
 
-This website was created following a tutorial created by Jonas Schmedtmann.
-
 ### Preview
 
 ![gif](https://thumbs.gfycat.com/DemandingDelayedAmethystsunbird-size_restricted.gif)
